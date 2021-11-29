@@ -17159,7 +17159,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	tobacoon: {
-		num: 2,
+		num: 9002,
 		name: "Tobacoon",
 		types: ["Grass", "Poison"],
 		genderRatio: {M: 0.875, F: 0.125},
