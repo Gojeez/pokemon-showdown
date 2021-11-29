@@ -17284,7 +17284,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug"],
 	},
 	hivemain: {
-		num: 11,
+		num: 9011,
 		name: "Hivemain",
 		types: ["Bug"],
 		baseStats: {hp: 56, atk: 88, def: 59, spa: 50, spd: 68, spe: 56},
@@ -17298,7 +17298,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug"],
 	},
 	vazzinate: {
-		num: 1012,
+		num: 9012,
 		name: "Vazzinate",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 65, atk: 99, def: 61, spa: 90, spd: 95, spe: 72},
@@ -17311,7 +17311,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug"],
 	},
 	vazzinatedaz: {
-		num: 1012,
+		num: 9012,
 		name: "Vazzinate-Daz",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 65, atk: 99, def: 61, spa: 90, spd: 95, spe: 72},
