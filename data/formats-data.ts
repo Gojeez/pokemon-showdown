@@ -6489,4 +6489,19 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	cigerillar: {
 		tier: "OU"
 	},
+	tobacoon: {
+		tier: "OU"
+	},
+	okamikaze: {
+		tier: "OU"
+	},
+	radeon: {
+		tier: "OU"
+	},
+	scaulter: {
+		tier: "OU"
+	},
+	scorchoppr: {
+		tier: "OU"
+	},
 };
