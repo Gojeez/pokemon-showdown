@@ -17172,6 +17172,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoLevel: 16,
 		evos: ["Okamikaze"],
 		eggGroups: ["Bug", "Bug"],
+	},
 	okamikaze: {
 		num: 9003,
 		name: "Okamikaze",
