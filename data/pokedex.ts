@@ -77,7 +77,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	charmander: {
 		num: 4,
 		name: "Radeon",
-		types: ["Fire", "Steel"],
+		types: ["Fire"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65},
 		abilities: {0: "Blaze", H: "Solar Power"},
