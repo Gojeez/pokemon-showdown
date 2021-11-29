@@ -1,7 +1,7 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	bulbasaur: {
 		num: 1,
-		name: "Bulbasaur",
+		name: "Cigerillar",
 		types: ["Grass", "Bug"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45},
@@ -76,7 +76,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	charmander: {
 		num: 4,
-		name: "Charmander",
+		name: "Radeon",
 		types: ["Fire"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65},
@@ -166,7 +166,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	squirtle: {
 		num: 7,
-		name: "Squirtle",
+		name: "Nutanuk",
 		types: ["Water"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 44, atk: 48, def: 65, spa: 50, spd: 64, spe: 43},
