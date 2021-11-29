@@ -17181,4 +17181,5 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 6.9,
 		color: "Green",
 		eggGroups: ["Bug", "Bug"],
+	},
 };
