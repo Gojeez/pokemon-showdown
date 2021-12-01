@@ -1,5 +1,4 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
-	},
 	cigerillar: {
 		num: 1,
 		name: "Cigerillar",
