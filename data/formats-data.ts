@@ -6504,4 +6504,52 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	scorchoppr: {
 		tier: "OU"
 	},
+	nutanuk: {
+		tier: "OU"
+	},
+	nanuqua: {
+		tier: "OU"
+	},
+	nanaturuk: {
+		tier: "OU"
+	},
+	buzzling: {
+		tier: "OU"
+	},
+	hivemaim: {
+		tier: "OU"
+	},
+	vazzinate: {
+		tier: "OU"
+	},
+	vazzinatedaz: {
+		tier: "OU"
+	},
+	hoatot: {
+		tier: "OU"
+	},
+	hoatoxic: {
+		tier: "OU"
+	},
+	noxromaeus: {
+		tier: "OU"
+	},
+	furnit: {
+		tier: "OU"
+	},
+	furboda: {
+		tier: "OU"
+	},
+	hornampa: {
+		tier: "OU"
+	},
+	lawnie: {
+		tier: "OU"
+	},
+	orgnome: {
+		tier: "OU"
+	},
+	gnomercy: {
+		tier: "OU"
+	},
 };
